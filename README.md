@@ -1,1 +1,4 @@
 # CREDIT-CARD-DEFAULTER-CLASSIFIER
+Credit Card defaulters are a huge liability to any bank which offers the service. It can lead to millions of dollars in revenue loss. To mitigate this loss, companies employ Data Scientists to build models to predict whether a customer will be likely to default on the payment or not. Data Scientists in these companies utilize various historic and demographic data points such as Age, Gender, Education level, Marital Status, Credit limit and Previous payments. The objective of this project is to build and implement a ML model which predicts whether a customer will default on a payment or not.
+
+The dataset being used is from a bank in Taiwan. The dataset contains 25 variables. The dataset can be found here at the UCI Machine Learning Repository: http://archive.ics.uci.edu/ml. For the sake of simplicity I did all aspects of this project in a single IPython notebook.
